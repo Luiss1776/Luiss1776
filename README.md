@@ -12,4 +12,6 @@
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
+[twitter]: https://twitter.com/Josh
+[instagram]: https://www.instagram.com/Josh
 [linkedin]: https://www.linkedin.com/in/luis-gonzalez-6b9072264/
