@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Luiss1776/osTicket-Post-Install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Luiss1776/Ticket-LifeCycle) 
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/Luiss1776/Configure-Active-Directory)
+  - [Configuring Active Directory within Azure VMs](https://github.com/Luiss1776/Configuring-Active-Directory-)
 
 
 [<img align="left" alt="Luis | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
