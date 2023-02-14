@@ -7,11 +7,11 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Luiss1776/osTicket-Post-Install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Luiss1776/Ticket-LifeCycle)
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Luis | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Luis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Luis | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
+[twitter]: https://twitter.com/Luis
+[instagram]: https://www.instagram.com/Luis
 [linkedin]: https://www.linkedin.com/in/luis-gonzalez-6b9072264/
