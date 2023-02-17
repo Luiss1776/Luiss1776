@@ -1,6 +1,6 @@
 <h1>Hi, I'm Luis, an <a href="https://www.linkedin.com/in/luis-gonzalez-6b9072264/">IT Professional</a> 🧑‍💻</h1>
 
-<h2> 💻 - Information Technology Projects: 🤓</h2>
+<h2> 💻 - Information Technology Projects: <img src="https://user-images.githubusercontent.com/123595654/219561992-f4cdd9fa-ef43-42ce-9d55-7e987980b55e.gif"/> </h2></h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Luiss1776/osTicket-Prereqs)
